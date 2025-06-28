@@ -5,7 +5,7 @@
 // 2. Ganti 'YOUR_GEMINI_API_KEY' di bawah dengan kunci API Anda yang sebenarnya!
 // 3. JANGAN PERNAH MENGEKSPOS API KEY DI KODE JAVASCRIPT FRONTEND ANDA.
 
-define('GEMINI_API_KEY', 'AIzaSyBnCQ5GZJtSXzxwu9XN7IEpXXXtepRHfmY'); // <-- GANTI DENGAN KUNCI API ANDA YANG ASLI!
+define('GEMINI_API_KEY', ''); // <-- GANTI DENGAN KUNCI API ANDA YANG ASLI!
 
 header('Content-Type: application/json');
 
